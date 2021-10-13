@@ -1,0 +1,10 @@
+C:\Users\henho\source\repos\GreenhouseMeter\GreenhouseMeter\bin\Debug\GreenhouseMeter.exe.config
+C:\Users\henho\source\repos\GreenhouseMeter\GreenhouseMeter\bin\Debug\GreenhouseMeter.exe
+C:\Users\henho\source\repos\GreenhouseMeter\GreenhouseMeter\bin\Debug\GreenhouseMeter.pdb
+C:\Users\henho\source\repos\GreenhouseMeter\GreenhouseMeter\obj\Debug\GreenhouseMeter.csproj.AssemblyReference.cache
+C:\Users\henho\source\repos\GreenhouseMeter\GreenhouseMeter\obj\Debug\GreenhouseMeter.Greenhouse.resources
+C:\Users\henho\source\repos\GreenhouseMeter\GreenhouseMeter\obj\Debug\GreenhouseMeter.Properties.Resources.resources
+C:\Users\henho\source\repos\GreenhouseMeter\GreenhouseMeter\obj\Debug\GreenhouseMeter.csproj.GenerateResource.cache
+C:\Users\henho\source\repos\GreenhouseMeter\GreenhouseMeter\obj\Debug\GreenhouseMeter.csproj.CoreCompileInputs.cache
+C:\Users\henho\source\repos\GreenhouseMeter\GreenhouseMeter\obj\Debug\GreenhouseMeter.exe
+C:\Users\henho\source\repos\GreenhouseMeter\GreenhouseMeter\obj\Debug\GreenhouseMeter.pdb
